@@ -4,7 +4,7 @@ for(var i=0; i<4; i++) {
 }
 for(var i=0; i<4; i++) {
     for(var j=0;j<5;j++){
-        matriz[i][j]= Math.round(Math.random() * 100) + 1  ;
+        matriz[i][j]= Math.round(Math.random() * 100);
     }
 }
 
